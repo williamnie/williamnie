@@ -1,7 +1,7 @@
 ### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm williamnie(小北)👋
 
 
-Hi, I'm williamnie(小北), a passionate self-taught frontEnd web developer.
+Hi, I'm williamnie(小北), a frontEnd web developer.
 
 - 🔭 I’m currently working on [Recurrent AI](https://www.rcrai.com/)
 - 💬 Ask me about anything [here](https://github.com/williamnie/williamnie/issues)
