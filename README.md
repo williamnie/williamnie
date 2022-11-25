@@ -3,7 +3,6 @@
 
 Hi, I'm williamnie(小北), a frontEnd web developer.
 
-- 🔭 I’m currently working on [Recurrent AI](https://www.rcrai.com/)
 - 💬 Ask me about anything [here](https://github.com/williamnie/williamnie/issues)
 <br>
 <br>
